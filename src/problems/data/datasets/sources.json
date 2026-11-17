@@ -1,0 +1,127 @@
+{
+  "Abalone": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/183",
+    "categorical": [
+      "Sex"
+    ],
+    "notes": "Target: number of rings."
+  },
+  "Airfoil": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/43919",
+    "categorical": []
+  },
+  "Auto-mpg": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/196",
+    "categorical": [
+      "cylinders",
+      "model",
+      "origin"
+    ],
+    "notes": "The 6 cars without horsepower are dropped; cylinders, model year and origin keep their values."
+  },
+  "Balance-scale": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/11",
+    "categorical": []
+  },
+  "Banknote": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1462",
+    "categorical": []
+  },
+  "Blood-transfusion": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1464",
+    "categorical": []
+  },
+  "BreastCancer": {
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/dataset/15",
+    "notes": "Matches OpenML breast-w (15); the 16 missing Bare Nuclei values are filled and the sample ID column is removed."
+  },
+  "BreastEW": {
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/dataset/17",
+    "notes": "All 569 records of WDBC; record 842302 restored after it was lost from the CSV."
+  },
+  "Climate-model": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1467",
+    "categorical": []
+  },
+  "CongressEW": {
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/dataset/105",
+    "notes": "435 records as in UCI, votes y = 1 and n = 0 with unknown votes filled; the lost record restored as UCI record 0."
+  },
+  "Cpu_small": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/227",
+    "categorical": [],
+    "notes": "Target: usr, the share of time the CPUs run in user mode."
+  },
+  "Credit-g": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/31",
+    "categorical": [
+      "checking_status",
+      "credit_history",
+      "purpose",
+      "savings_status",
+      "employment",
+      "personal_status",
+      "other_parties",
+      "property_magnitude",
+      "other_payment_plans",
+      "housing",
+      "job",
+      "own_telephone",
+      "foreign_worker"
+    ]
+  },
+  "Ilpd": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1480",
+    "categorical": [
+      "V2"
+    ]
+  },
+  "Kin8nm": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/189",
+    "categorical": []
+  },
+  "Phoneme": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/1489",
+    "categorical": []
+  },
+  "Pima": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/37",
+    "categorical": [],
+    "notes": "OpenML `diabetes`."
+  },
+  "PrimaryTumor": {
+    "notes": "Converted from a former .mat copy; missing values already filled."
+  },
+  "Vehicle": {
+    "source": "UCI",
+    "url": "https://archive.ics.uci.edu/dataset/149",
+    "notes": "Matches OpenML vehicle (54)."
+  },
+  "Wine-quality": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/287",
+    "categorical": [],
+    "notes": "Red and white wines together."
+  },
+  "Yacht": {
+    "source": "OpenML",
+    "url": "https://www.openml.org/d/42370",
+    "categorical": []
+  }
+}

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use NIO in your work, please cite the paper below."
+title: "NIO, the Nubian Ibex Optimizer"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/ragabai/nio"
+authors:
+  - family-names: Ragab
+    given-names: Mohammed Gamal
+preferred-citation:
+  type: article
+  status: preprint
+  title: "Nubian Ibex Optimizer: A Nature-inspired Metaheuristic Algorithm"
+  year: 2026
+  date-published: 2026-10-13
+  journal: Research Square
+  publisher:
+    name: Research Square
+  doi: 10.21203/rs.3.rs-11294841/v1
+  url: "https://doi.org/10.21203/rs.3.rs-11294841/v1"
+  authors:
+    - family-names: Ragab
+      given-names: Mohammed Gamal
+    - family-names: Abdulkadir
+      given-names: Said Jadid
+    - family-names: Alhussian
+      given-names: Hitham
+    - family-names: Alqushaibi
+      given-names: Alawi
+    - family-names: Sumiea
+      given-names: Ebrahim Hamid
+    - family-names: Al-Selwi
+      given-names: Safwan Mahmood
+    - family-names: Muneer
+      given-names: Amgad
+    - family-names: Ismail
+      given-names: Ahmed Omer Ahmed
+    - family-names: Wu
+      given-names: Jia
